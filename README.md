@@ -1,11 +1,8 @@
 # DONGWON
 
-Frontend
+안녕하세요. 개발자 김동원입니다.
 
-Javascript
+<h2>개발자 선언문 </h2>
 
-Vuejs - Vuex, store, Vuetify, Router, Webpack
-
-React
-
-
+1. 장난끼 많아요, 하지만 집중할 땐 다른 사람이에요.
+2. 플
