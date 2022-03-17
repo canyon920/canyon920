@@ -13,4 +13,5 @@
 
 취미는 코딩, 기타 치기 입니다.
 
-티스토리 : https://mone-ones.tistory.com/
+
+프론트엔드 티스토리 : https://mone-ones.tistory.com/
