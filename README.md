@@ -7,3 +7,5 @@
 3. 어제 보단 더 나은 사람이 되기 위해 노력합니다.
 
 프론트엔드 티스토리 : https://mone-ones.tistory.com/
+
+FrontEnd : Vuejs, VueCli, Vuex, Javascript, TypeScript
