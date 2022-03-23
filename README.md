@@ -10,4 +10,4 @@
 
 프론트엔드 티스토리 : https://mone-ones.tistory.com/
 
-FrontEnd : Vuejs, VueCli, Vuex, Javascript, TypeScript
+FrontEnd : Vuejs ★★★★★  VueCli ★★★★★  Vuex ★★★★ Javascript ★★☆☆☆ TypeScript ★★★★★
