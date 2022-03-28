@@ -7,8 +7,8 @@
 3. 어제 보단 더 나은 사람이 되기 위해 노력합니다.
 ---------------------------
    우아한 코드를 구현하기 위해 노력 합니다. <br/>
-   단 시간 내 최대한 좋은 코드 구현 | 나 자신과의 약속 ? 짧은 시간 내에 코드 구현 : 고퀄리티 코드 구현  <br/>
-   저가 한 말은 꼭 지키고 싶습니다. <br/>
+
+
 프론트엔드 티스토리 : https://mone-ones.tistory.com/
 
 FrontEnd : Vuejs | VueCli | Vuex | Javascript | TypeScript | React 
