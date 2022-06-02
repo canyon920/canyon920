@@ -4,16 +4,19 @@
 
 - ui/ux Designer
 
+
 2020 
 
-- Web publishing 
+- Web publisher
+
 
 2021
 
-- Web Frontend Developer 
+- Web Frontend Developer
+ 
 
 코드 예쁘게 짜기 💻
-
+재미 없느면 때려치기 
 
 
 
