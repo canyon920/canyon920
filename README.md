@@ -1,23 +1,7 @@
 # DONGWON
-
-2018
-
-- ui/ux Designer
-
-
-2020 
-
-- Web publisher
-
-
-2021
-
-- Web Frontend Developer
  
 
 코드 예쁘게 짜기 💻
-
-
 
 
 Front Developer ㅣ 김동원 
