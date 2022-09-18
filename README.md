@@ -1,9 +1,7 @@
 # DONGWON
  
 
-코드 예쁘게 짜기 💻
-
-Front Developer ㅣ 김동원 
+Front Developer ㅣ ENTP
 
 ---------------------------
   
