@@ -9,4 +9,4 @@ Front Developer ㅣ ENTP
 
 FrontEnd : Vuejs | VueCli | Vuex | Javascript | TypeScript | React
 
-Backend : java, node 
+Backend : Java, Node, Python , Flask 
