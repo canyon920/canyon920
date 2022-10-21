@@ -8,8 +8,10 @@
 
 
 
-티스토리 : https://mone-ones.tistory.com/
+Blog : https://mone-ones.tistory.com/
 
-FrontEnd : Vuejs | Javascript | TypeScript | React
+FrontEnd : Vuejs | React | Javascript | TypeScript | 
 
-Backend : Java, Node, Python , Flask 
+Backend : Java | Node | Python | Flask
+
+
