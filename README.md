@@ -10,6 +10,6 @@
 
 티스토리 : https://mone-ones.tistory.com/
 
-FrontEnd : Vuejs | VueCli | Vuex | Javascript | TypeScript | React
+FrontEnd : Vuejs | Javascript | TypeScript | React
 
 Backend : Java, Node, Python , Flask 
