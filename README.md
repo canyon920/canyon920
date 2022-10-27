@@ -1,17 +1,6 @@
-# CUB
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developWorldTheme&show_icons=true&theme=radical)
+# CUBE
 
-★ Frontend Developer ㅣ ENTP
+<h1> Hello- WELCOME, My World name is "CUBE"</h1>
 
-비록 저는 세상에서 작은 존재이지만, 세상이 필요로 하는 개발을 하고 싶습니다.
-
-
-
-Blog : https://mone-ones.tistory.com/
-
-FrontEnd : Vuejs | React | Javascript | TypeScript | 
-
-Backend : Java | Node | Python | Flask
-
-
+경쟁은 누군가 한명이 죽기 마련이죠.
+그런 개발자들 사이에서 힘이 되고 싶어요.
