@@ -1,6 +1,5 @@
 # CUBE
 
-<h1> Hello- WELCOME, My World name is "CUBE"</h1>
+<h3> My World name is Cube </h3>
 
-경쟁은 누군가 한명이 죽기 마련이죠.
-그런 개발자들 사이에서 힘이 되고 싶어요.
+세상을 발전 시킬 수 있는 개발을 하고 싶습니다.
