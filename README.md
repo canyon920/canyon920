@@ -1,4 +1,4 @@
-# CUBE <h3> My World name is Cube </h3>
+# <h3> My World name is Cube </h3>
 
 
 
