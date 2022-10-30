@@ -6,10 +6,4 @@
 
 
 
-## 관심있어요 
-
-
-1. TYPESCRIPT </p> 
-2. REACT </p>  
-3. ANGULAR </p> 
-           
+ 
