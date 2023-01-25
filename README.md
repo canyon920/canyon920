@@ -1,13 +1,13 @@
 # I'm Watch 
 
 
-I have skill 
+<h3> I have skill 
 
-★★★★☆ Javascript | ES
+<h2> ★★★★☆ Javascript | ES
  
-★★★☆☆ Vue | Goo
+<h2> ★★★☆☆ Vue | Goo
 
-★★★☆☆ React | Face
+<h2> ★★★☆☆ React | Face
 
 
 <h3> more Studing Typescript <br />
