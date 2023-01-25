@@ -4,7 +4,7 @@
 <h3> more Studing Typescript <br />
 <h3> I can Frontend svelte & Angular 
  
-<h3> ★★★★☆ Javascript | ES
+<h3 style="font-color:yello"> ★★★★☆ Javascript | ES
  
 <h3> ★★★☆☆ Vue | Goo
 
