@@ -1,7 +1,7 @@
 # I'm Watch 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder) 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 <h1> I'm CUBE 
 <ul>
  <li> 2023년 이네요.
