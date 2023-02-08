@@ -1,14 +1,10 @@
 # I'm Watch 
 
-
-<h3> more Studing Typescript <br />
-<h3> I can Frontend svelte & Angular 
- 
-<h3> ★★★★☆ Javascript | ES
- 
-<h3> ★★★☆☆ Vue | Goo
-
-<h3> ★★★☆☆ React | Face
-
+<h1> I'm CUBE 
+<ul>
+ <li> 2023년 이네요.
+ <li style="color:red"> 01. 경쟁하지 않아요.
+  
+  
 
 
