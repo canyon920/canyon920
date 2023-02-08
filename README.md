@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=130&text=Hi&nbsp;I'm%20CUBE&fontAlign=30&color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=130&text=Hi&nbsp;I'm%20CUBE&fontAlign=30&color=gradient&customColorList=0,2,13,5,30)
 
 <h1> I'm CUBE 
 <ul>
