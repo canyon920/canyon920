@@ -2,9 +2,9 @@
 <ul>
   <li>  Github. canyon920
     
-  <li> Vue, React, Typescript, Javascript
+  <li> Main: Vue, React, Typescript, Javascript
     
-  <li> Sub ; Python, Node, Java
+  <li> Sub: Python, Node, Java
 
 
     
