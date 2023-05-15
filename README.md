@@ -1,10 +1,6 @@
 
 <ul>
-  <li>  Github. canyon920
-    
-  <li> Index: Vue, React, Typescript, Javascript
-    
-  <li> Sub: Python, Node, Java
+  <li>  새로운 것에 관심이 많은 프론트엔드 개발자 김동원 입니다. 
 
 
     
