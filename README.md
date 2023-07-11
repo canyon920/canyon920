@@ -5,5 +5,5 @@
 
 React, Svelte, React, Vue, Angular, Typescript
 
-Sub Stack 
+Sub Stack <br />
 Python, Node 
