@@ -3,4 +3,4 @@
 
 기술스택 
 
-React, Svelte, React, Vue, Angular, Typescript, Python, Node
+React, Svelte, React, Vue, Angular, Typescript, Java, Python, Node
