@@ -1,6 +1,6 @@
 Frontend Developer 
 
-Game Setting
+Game Setting <br />
 Vue, React, Typescript 
 
 Profile 
