@@ -4,6 +4,6 @@
 > 중소기업 SI 로 공공기관 및 중견기업에 투입하여 프로젝트를 진행하거나, 대기업 투자 스타트업 팩토리에서 프리랜서로 근무를 진행해오며 
 > 중견기업과 대기업 문화를 경험해왔습니다.
 
-<div style="width: 500px; height: 1020px; border: 1px solid white">
-되는거야?
-</div>
+
+<b><span style="color:white; background-color:red; font-size:150%">글자는 흰색, 배경은 빨강, 사이즈는 150, 굵기는 b태그로 설정</span></b>
+
