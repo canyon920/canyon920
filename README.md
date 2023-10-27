@@ -1,9 +1,15 @@
-Frontend Developer 
+ # Frontend Developer 🤟🏻
 
-Game Setting <br />
-Vue, React, Typescript 
+<div class="readme_wrap>
+안녕하세요. 어떠한 결과에 따르는 과정을 중요시하는 Vue 개발자 김동원 입니다.
+ 
+</div>
 
-Profile 
 
-1. 어제의 저 자신과 경쟁 해요.
-2. 재미있고 사람들의 편리를 위한 서비스를 위한 개발에 관심이 많아요.
+ <style>
+.readme_wrap {
+  border:1px solid white;
+}
+
+   
+ </style>
