@@ -7,3 +7,4 @@
 
 <b><span style="color:white; background-color:red; font-size:150%">글자는 흰색, 배경은 빨강, 사이즈는 150, 굵기는 b태그로 설정</span></b>
 
+<span style="background-color:red">빨간 글씨</span>  
