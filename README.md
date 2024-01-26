@@ -14,11 +14,10 @@
   - 학원에서 추천해준 곳 외에 취업에 성공했을 때 뻥튀기 Si 등 다양한 경험을 겪었고 양심상 잦은 퇴사가 있었어요.
   - 그렇게 2년차가 갖 되었을 때 공백기를 꽤 길게 가졌고 지금의 저가 되게 되었습니다 :)
   - 코딩 테스트는 좋아하지 않지만 필요에 따라 공부합니다....
-
+  - 솔직하고 유~하게 살악가고자 하는게 저의 가치관 입니다 :) 
 
 <br /><br />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=canyon920)](https://solved.ac/canyon920)<br/>
 
 ## :beetle: About me  <br />
 
